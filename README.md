@@ -15,13 +15,13 @@ And save them to a safe location. The mod will modify existing core game files a
 
 ## Prerequisits
 
-1. Download <a href="https://hvornum.se/valheim/?f=1318a156df5d0055bf781f1eb96a07ae544e1b20a488009ad786c93d00b9fe6a">https://hvornum.se/valheim/?f=Valheim_Bepinex_5.4.5.zip</a> *(Build from [source](https://github.com/BepInEx/BepInEx/releases) if possible)*
+1. Download [https://hvornum.se/valheim/?f=Valheim_Bepinex_5.4.5.zip](https://hvornum.se/valheim/?f=1318a156df5d0055bf781f1eb96a07ae544e1b20a488009ad786c93d00b9fe6a) *(Build from [source](https://github.com/BepInEx/BepInEx/releases) if possible)*
 2. Copy the contents of the zip file into the valheim common folder structure:
  - `BepInEx` to `C:\Program Files (x86)\Steam\steamapps\common\Valheim\`
  - `valheim_Data\Managed\<files>` into `C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim_Data\Managed\`
  - `doorstop_config.ini` to `C:\Program Files (x86)\Steam\steamapps\common\Valheim\`
  - `winhttp.dll` to `C:\Program Files (x86)\Steam\steamapps\common\Valheim\`
-3. Download <a href="https://hvornum.se/valheim/?f=4bab83faecaadf16830481de64ca6195e1fa889098912639377e390e625071b3">https://hvornum.se/valheim/?f=AssemblyPublicizerByMrPurple6411.zip</a> *(You should try to build the source from [MrPurple6411](https://github.com/MrPurple6411/Bepinex-Tools/releases/tag/1.0.0-Publicizer) if possible)*
+3. Download [https://hvornum.se/valheim/?f=AssemblyPublicizerByMrPurple6411.zip](https://hvornum.se/valheim/?f=4bab83faecaadf16830481de64ca6195e1fa889098912639377e390e625071b3) *(You should try to build the source from [MrPurple6411](https://github.com/MrPurple6411/Bepinex-Tools/releases/tag/1.0.0-Publicizer) if possible)*
 4. Drag and drop all `assembly_.dll` files in `C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim_Data\Managed\` onto the `AssemblyPublicizer.exe` file as if the `.exe` is a folder.
 
 > :information_source: Make sure you have `Visual Studio 2019 Community` installed with `Universal Windows Platform development` selected as well as `Visual Studio Build Tools 2019`.
