@@ -1,0 +1,8 @@
+[submodule "server/shared/BepInEx"]
+	path = server/shared/BepInEx
+	url = https://github.com/BepInEx/BepInEx.git
+	branch = master
+[submodule "client/shared/BepInEx"]
+	path = client/shared/BepInEx
+	url = https://github.com/BepInEx/BepInEx.git
+	branch = master
